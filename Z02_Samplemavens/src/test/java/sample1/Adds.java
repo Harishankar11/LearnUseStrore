@@ -24,10 +24,7 @@ public class Adds {
 		System.out.println("*****START******");
 		System.out.println("*****START******");
 		System.out.println("*****START******");
-		System.out.println("*****START******");
-		System.out.println("*****START******");
-		System.out.println("*****START******");
-		System.out.println("*****START******");
+		
 		
 		
 		//System.setProperty("webdriver.gecko.driver", "D:\\Harishankar\\Harish\\Jar files\\geckodriver.exe");
