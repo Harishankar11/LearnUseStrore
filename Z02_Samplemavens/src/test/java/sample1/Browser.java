@@ -41,6 +41,11 @@ public class Browser {
 		List<WebElement> ele = driver.findElements(By.xpath("//header/div[2]/div/ul/li"));
 		
 		
+		System.out.println("*****START******");
+		System.out.println("*****START******");
+		System.out.println("*****START******");
+		System.out.println("*****START******");
+		System.out.println("*****START******");
 		
 		Actions action = new Actions(driver);
 		
